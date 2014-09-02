@@ -5,7 +5,7 @@ import org.testng.Reporter;
 import pageObjects.BaseClass;
 import pageObjects.CheckOut_Page;
 
-// This is called Modularization, when we club series of actions in to one Module
+// This is called Modularization, when we club series of actions in to one Module(testing)
 // For Modular Driven Framework, please see http://www.toolsqa.com/modular-driven/ 
 public class CheckOut_Action {
 	 // I could have created a Function for it but I keep calculations in Functions and test steps in Module Actions
